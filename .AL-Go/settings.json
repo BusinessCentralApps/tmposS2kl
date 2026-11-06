@@ -8,5 +8,6 @@
     "cus"
   ],
   "bcptTestFolders": [],
-  "repoVersion": "2.1"
+  "repoVersion": "2.1",
+  "versioningStrategy": 16
 }
